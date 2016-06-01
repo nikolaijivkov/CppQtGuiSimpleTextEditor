@@ -6,7 +6,7 @@
 
 QT += core gui widgets
 
-CONFIG += c++11 debug
+CONFIG += c++11
 
 TARGET = QtSimpleTextEditor
 TEMPLATE = app
