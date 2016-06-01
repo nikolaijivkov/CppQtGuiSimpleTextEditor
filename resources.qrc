@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>png/chip.png</file>
+        <file>trans_bg.qm</file>
+        <file>png/cpp-logo.png</file>
+    </qresource>
+</RCC>
